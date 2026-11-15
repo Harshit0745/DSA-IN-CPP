@@ -7,3 +7,5 @@ square_root_number       #3
 find_largest_from_array  #4
 
 linear_search   #5
+
+bubble_sort   #6
