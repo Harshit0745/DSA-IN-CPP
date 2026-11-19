@@ -11,3 +11,5 @@ linear_search   #5
 bubble_sort   #6
 
 selection_sort  #7
+
+sum_of_an_array  #8
